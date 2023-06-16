@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lucky Number</string>
+    <string name="textHintforName">Please edit your name</string>
+    <string name="your_lucky_number_is">Your lucky number is:</string>
+</resources>
